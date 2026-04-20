@@ -1,6 +1,8 @@
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![PyTorch Geometric](https://img.shields.io/badge/PyTorch--Geometric-orange.svg)
-![Status](https://img.shields.io/badge/status-em--desenvolvimento-yellow.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" />
+  <img src="https://img.shields.io/badge/PyTorch--Geometric-orange.svg" />
+  <img src="https://img.shields.io/badge/status-em--desenvolvimento-yellow.svg" />
+</p>
 
 # 🧬 Predição de Interações Medicamentosas usando RGCN
 
